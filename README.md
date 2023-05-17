@@ -17,8 +17,8 @@
  <br/>
   
  ### Log
-  <br/>
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=okm1172)](https://solved.ac/okm1172)]
+  <br/>[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=okm1172)](https://solved.ac/okm1172)
 
 <a href="https://velog.io/@suerte_0" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"/></a>
 <a href="https://github.com/okm1172/" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
