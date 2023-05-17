@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://velog.io/@suerte_0" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=&logoColor=로고색상"/></a>
+<a href="https://github.com/okm1172/" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okm1172&show_icons=true&theme=radical)
 
