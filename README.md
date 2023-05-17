@@ -3,7 +3,6 @@
 ### Hi there 👋
 
 <br/>
-<br/>
 
 ### Used/Using Language
   <br/>
