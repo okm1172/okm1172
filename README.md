@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="https://velog.io/@suerte_0" target="_blank"><img src="https://img.shields.io/badge/Velog-배경색?style=flat-square&logo=Velog&logoColor=20C997"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=&logoColor=로고색상"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okm1172&show_icons=true&theme=radical)
+
 <!--
 **okm1172/okm1172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
