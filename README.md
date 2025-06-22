@@ -24,9 +24,7 @@
 
 <a href="https://velog.io/@suerte_0" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<!--
 <a href="https://github.com/okm1172/" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
---!>
 
 
 <br/>
@@ -35,9 +33,9 @@
 #### :point_down: States
   <br/>
   
-  
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okm1172&theme=vue&show_icons=true)
-
+-->
 <!--
 **okm1172/okm1172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
