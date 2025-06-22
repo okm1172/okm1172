@@ -24,7 +24,9 @@
 
 <a href="https://velog.io/@suerte_0" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<!--
 <a href="https://github.com/okm1172/" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+--!>
 
 
 <br/>
